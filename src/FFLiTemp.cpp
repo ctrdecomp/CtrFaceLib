@@ -35,3 +35,4 @@ bool ShouldCallInvalidate(GX2ShaderMode shaderMode)
 }
 
 }
+

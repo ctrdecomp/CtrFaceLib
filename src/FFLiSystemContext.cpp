@@ -66,3 +66,4 @@ bool FFLiSystemContext::AfterConstruct()
     m_TitleID = FFLiGetMiiStudioTitleID();
     return true;
 }
+

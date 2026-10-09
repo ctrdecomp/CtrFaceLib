@@ -8,3 +8,4 @@ struct FFLiAuthorID;
 const FFLiAuthorID* FFLiGetUserID();
 
 #endif // FFLI_SYSTEM_H_
+

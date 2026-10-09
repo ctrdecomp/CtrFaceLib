@@ -25,3 +25,4 @@ s32 FFLiDateToDays(s32 year, s32 month, s32 day);
 s32 FFLiGetSecondsFrom_2000_01_01();
 
 #endif // FFLI_DATE_TIME_H_
+

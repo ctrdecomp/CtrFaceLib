@@ -157,3 +157,4 @@ const char* FFLiResourceManager::GetPath(FFLResourceType resourceType) const
 {
     return m_Path[resourceType];
 }
+

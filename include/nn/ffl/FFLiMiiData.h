@@ -30,3 +30,4 @@ void FFLiMiiDataOfficialToStoreDataCFL(FFLiStoreDataCFL& storeDataCFL, const FFL
 // FFLiStoreDataCFLToStoreData(FFLiStoreData& storeData, const FFLiStoreDataCFL& storeDataCFL); // Deleted in NSMBU
 
 #endif // FFLI_MIIDATA_H_
+

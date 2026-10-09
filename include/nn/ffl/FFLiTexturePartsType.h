@@ -20,3 +20,4 @@ enum FFLiTexturePartsType
 };
 
 #endif // FFLI_TEXTURE_PARTS_TYPE_H_
+

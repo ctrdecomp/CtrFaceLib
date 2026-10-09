@@ -192,3 +192,4 @@ FFLResult FFLiMiddleDB::GetCharInfo(FFLiCharInfo* pCharInfo, u16 index) const
     FFLiMiiDataOfficial2CharInfo(pCharInfo, Get(index));
     return FFL_RESULT_OK;
 }
+

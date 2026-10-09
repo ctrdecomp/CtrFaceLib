@@ -31,3 +31,4 @@ void FFLSetMiddleDBHiddenMask(FFLMiddleDB* pMiddleDB, FFLGender gender);
 #endif
 
 #endif // FFL_MIDDLE_DB_H_
+

@@ -26,3 +26,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCopySurfaceDrawer) == 8);
 
 #endif // FFLI_COPY_SURFACE_DRAWER_H_
+

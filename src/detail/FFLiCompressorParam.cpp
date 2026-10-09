@@ -54,3 +54,4 @@ FFLiCompressorParam* FFLiCompressorParam::Create(u32 numMips, bool compressUseUB
     pParam->Setup(pAllocator, numMips, compressUseUB);
     return pParam;
 }
+

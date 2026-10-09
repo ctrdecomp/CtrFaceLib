@@ -29,3 +29,4 @@ bool FFLiIsValidCRC16(const void* pData, u32 size)
 {
     return FFLiGetCRC16(0, pData, size) == 0;
 }
+

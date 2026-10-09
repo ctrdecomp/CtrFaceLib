@@ -7,3 +7,4 @@ void FFLSetShaderCallback(const FFLShaderCallback* pCallback)
     if (FFLiManager::IsConstruct())
         FFLiManager::GetInstance()->GetShaderCallback().Set(pCallback);
 }
+

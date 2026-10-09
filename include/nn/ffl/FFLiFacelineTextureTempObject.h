@@ -22,3 +22,4 @@ struct FFLiFacelineTextureTempObject
 NN_STATIC_ASSERT(sizeof(FFLiFacelineTextureTempObject) == 0x14C);
 
 #endif // FFLI_FACELINE_TEXTURE_TEMP_OBJECT_H_
+

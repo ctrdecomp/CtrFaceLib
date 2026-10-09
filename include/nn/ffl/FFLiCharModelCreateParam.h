@@ -51,3 +51,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCharModelCreateParam) == 0x1C);
 
 #endif // FFLI_CHAR_MODEL_CREATE_PARAM_H_
+

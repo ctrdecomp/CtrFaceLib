@@ -401,3 +401,4 @@ bool ReplaceNameFromRFL(u16* s, s32 size, s32 maxNumberCharCount)
 }
 
 }
+

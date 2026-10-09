@@ -165,3 +165,4 @@ bool FFLiDatabaseDefault::Get(FFLiCharInfo* pCharInfo, u32 index) const
     FFLiMiiDataOfficial2CharInfo(pCharInfo, m_MiiDataOfficial[index]);
     return true;
 }
+

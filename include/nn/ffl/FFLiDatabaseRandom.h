@@ -29,3 +29,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiDatabaseRandom) == 4);
 
 #endif // FFLI_DATABASE_RANDOM_H_
+

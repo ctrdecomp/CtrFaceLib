@@ -26,3 +26,4 @@ struct FFLiCompressorDescBC3
 };
 
 #endif // FFLI_COMPRESSOR_DESC_H_
+

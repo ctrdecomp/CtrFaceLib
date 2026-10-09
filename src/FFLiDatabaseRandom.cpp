@@ -1085,3 +1085,4 @@ void FFLiDatabaseRandom::Get(FFLiCharInfo* pCharInfo, FFLGender gender, FFLAge a
 
     std::memset(&pCharInfo->authorID, 0, sizeof(FFLiAuthorID));
 }
+

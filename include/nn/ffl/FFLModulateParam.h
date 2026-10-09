@@ -93,3 +93,4 @@ NN_STATIC_ASSERT(sizeof(FFLModulateParam) == 0x18);
 #endif
 
 #endif // FFL_MODULATE_PARAM_H_
+

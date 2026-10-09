@@ -27,3 +27,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiContextState) == 8);
 
 #endif // FFLI_CONTEXT_STATE_H_
+

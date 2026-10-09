@@ -22,3 +22,4 @@ FFLiUtilShaderAllocator::FFLiUtilShaderAllocator(FFLiBufferAllocator* pAllocator
     void* pHeaderBuffer = pAllocator->Allocate(headerBufferSize, 4);
     m_BufferAllocatorHeader.Init(pHeaderBuffer, headerBufferSize);
 }
+

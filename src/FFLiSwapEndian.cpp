@@ -44,3 +44,4 @@ u32 FFLiSwapEndianGroup(void* ptr, const FFLiSwapEndianDesc* pDesc, u32 num)
 
     return static_cast<u8*>(pPtr) - static_cast<u8*>(ptr);
 }
+

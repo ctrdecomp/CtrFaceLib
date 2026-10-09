@@ -33,3 +33,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiShaderCallback) == 4);
 
 #endif // FFLI_SHADER_CALLBACK_H_
+

@@ -396,3 +396,4 @@ void Compress(FFLiCompressorImplBC1* pCompressorImpl, FFLiRenderTexture* pDst, c
 }
 
 }
+

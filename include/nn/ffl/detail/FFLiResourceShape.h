@@ -139,3 +139,4 @@ NN_STATIC_ASSERT(sizeof(FFLiResourceShapeHairTransform) <= FFLI_RESOURCE_SHAPE_T
 NN_STATIC_ASSERT(sizeof(FFLiResourceShapeFacelineTransform) <= FFLI_RESOURCE_SHAPE_TRANSFORM_MAX_SIZE);
 
 #endif // FFLI_RESOURCE_SHAPE_H_
+

@@ -26,3 +26,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiUtilShaderAllocator) == 0x10);
 
 #endif // FFLI_UTIL_SHADER_ALLOCATOR_H_
+

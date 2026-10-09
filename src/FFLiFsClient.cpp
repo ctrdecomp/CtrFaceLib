@@ -62,3 +62,4 @@ FSStatus FFLiFsClient::ShutdownIfValid(FSRetFlag errHandling)
         status = Shutdown(errHandling);
     return status;
 }
+

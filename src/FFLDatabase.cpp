@@ -58,3 +58,4 @@ void FFLiEnableSpecialMii(u32 key)
 
     FFLiManager::GetInstance()->GetDatabaseManager().EnableSpecialMii(key);
 }
+

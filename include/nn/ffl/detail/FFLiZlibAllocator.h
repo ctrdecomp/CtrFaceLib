@@ -19,3 +19,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiZlibAllocator) == 4);
 
 #endif // FFLI_ZLIB_ALLOCATOR_H_
+

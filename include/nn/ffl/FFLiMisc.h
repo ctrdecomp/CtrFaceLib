@@ -6,3 +6,4 @@
 bool FFLiVerifyBirthday(s32 month, s32 day);
 
 #endif // FFLI_MISC_H_
+

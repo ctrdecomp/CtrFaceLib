@@ -37,3 +37,4 @@ typedef FFLiCompressorImpl<FFLiCompressorDescBC3> FFLiCompressorImplBC3;
 void FFLiRenderMaskTextures(FFLiMaskTextures* pMaskTextures, FFLiMaskTexturesTempObject* pObject, const FFLiShaderCallback* pCallback, FFLiCopySurface* pCopySurface, FFLiCompressorImplBC3* pCompressorImpl);
 
 #endif // FFLI_MASK_TEXTURES_H_
+

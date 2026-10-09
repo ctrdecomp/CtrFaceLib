@@ -61,3 +61,4 @@ u32 FFLiGetMaxMouthNum(u32 expressionFlagCount);
 u32 FFLiGetMaxEyeNum(u32 expressionFlagCount);
 
 #endif // FFLI_PARTS_TEXTURES_H_
+

@@ -38,3 +38,4 @@ bool FFLiCompressor::UseUB() const
 {
     return m_CompressorImplBC1.UseUB();
 }
+

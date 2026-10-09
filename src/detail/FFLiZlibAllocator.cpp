@@ -15,3 +15,4 @@ void FFLiZlibAllocator::Free(void* opaque, void* address)
 {
     static_cast<FFLiZlibAllocator*>(opaque)->m_pInterface->Free(address);
 }
+

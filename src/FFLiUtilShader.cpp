@@ -234,3 +234,4 @@ static bool GetPixelSamplerLocation(u32* pLocation, const GX2PixelShader* pShade
     *pLocation = location;
     return true;
 }
+

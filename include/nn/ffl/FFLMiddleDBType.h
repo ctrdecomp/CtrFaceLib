@@ -22,3 +22,4 @@ FFLMiddleDBType;
 #endif
 
 #endif // FFL_MIDDLE_DB_TYPE_H_
+

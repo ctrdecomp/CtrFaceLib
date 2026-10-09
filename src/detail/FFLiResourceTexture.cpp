@@ -45,3 +45,4 @@ void FFLiResourceTextureFooter::SwapEndian()
     m_Width = FFLiSwapEndianImpl<u16>(m_Width);
     m_Height = FFLiSwapEndianImpl<u16>(m_Height);
 }
+

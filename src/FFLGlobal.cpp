@@ -37,3 +37,4 @@ FFLColor FFLGetFavoriteColor(s32 index)
 {
     return FFLiGetFavoriteColor(index);
 }
+

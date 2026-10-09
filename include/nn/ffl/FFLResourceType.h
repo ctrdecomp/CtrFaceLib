@@ -20,3 +20,4 @@ FFLResourceType;
 #endif
 
 #endif // FFL_RESOURCE_TYPE_H_
+

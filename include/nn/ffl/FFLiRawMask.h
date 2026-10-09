@@ -35,3 +35,4 @@ void FFLiInvalidateRawMask(FFLiRawMaskDrawParam* pDrawParam);
 void FFLiDrawRawMask(const FFLiRawMaskDrawParam* pDrawParam, const FFLiShaderCallback* pCallback);
 
 #endif // FFLI_RAW_MASK_H_
+

@@ -32,3 +32,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiFsFile) == 8);
 
 #endif // FFLI_FS_FILE_H_
+

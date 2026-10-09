@@ -36,3 +36,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiFsClient) == 0x1701);
 
 #endif // FFLI_FS_CLIENT_H_
+

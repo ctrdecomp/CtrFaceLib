@@ -187,3 +187,4 @@ void FFLiInitModulateFill(FFLModulateParam* pParam)
     pParam->pColorB = NULL;
     pParam->pGX2Texture = NULL;
 }
+

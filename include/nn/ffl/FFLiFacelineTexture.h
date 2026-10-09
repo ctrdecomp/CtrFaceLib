@@ -29,3 +29,4 @@ typedef FFLiCompressorImpl<FFLiCompressorDescBC1> FFLiCompressorImplBC1;
 void FFLiRenderFacelineTexture(FFLiRenderTexture* pRenderTexture, const FFLiCharInfo* pCharInfo, u32 resolution, FFLiFacelineTextureTempObject* pObject, const FFLiShaderCallback* pCallback, FFLiCopySurface* pCopySurface, FFLiCompressorImplBC1* pCompressorImpl);
 
 #endif // FFLI_FACELINE_TEXTURE_H_
+

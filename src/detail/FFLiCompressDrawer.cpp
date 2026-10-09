@@ -75,3 +75,4 @@ u32 FFLiCompressDrawer::GetBufferSize()
 
     return ret;
 }
+

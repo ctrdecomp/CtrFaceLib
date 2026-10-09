@@ -25,3 +25,4 @@ void FFLiEnableSpecialMii(u32 key);
 #endif
 
 #endif // FFL_DATABASE_H_
+

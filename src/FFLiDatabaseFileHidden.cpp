@@ -267,3 +267,4 @@ static u32 GetMiiDataNum()
 {
     return 500;
 }
+

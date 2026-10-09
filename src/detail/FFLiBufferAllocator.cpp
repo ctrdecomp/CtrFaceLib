@@ -43,3 +43,4 @@ bool FFLiBufferAllocator::CanAllocate(u32 size, u32 alignment) const
     u32 alignedSize = (FFLiRoundUp(bufferPtr, alignment) + size) - bufferPtr;
     return alignedSize <= GetRestSize();
 }
+

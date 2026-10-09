@@ -51,3 +51,4 @@ NN_STATIC_ASSERT_IS_POD(FFLiDatabaseFileOfficial);
 NN_STATIC_ASSERT(sizeof(FFLiDatabaseFileOfficial) == 0x43840);
 
 #endif // FFLI_DATABASE_FILE_OFFICIAL_H_
+

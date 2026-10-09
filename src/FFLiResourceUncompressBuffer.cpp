@@ -43,3 +43,4 @@ u32 FFLiResourceUncompressBuffer::GetBufferSize(const FFLiResourceManager* pReso
 
     return ret;
 }
+

@@ -45,3 +45,4 @@ FFLiResourceHeader* FFLiResourceCache::Header(FFLResourceType resourceType) cons
 {
     return m_Res[resourceType].pHeader;
 }
+

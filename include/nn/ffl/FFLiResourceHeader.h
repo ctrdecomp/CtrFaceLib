@@ -85,3 +85,4 @@ struct FFLiResourceMultiHeader
 NN_STATIC_ASSERT(sizeof(FFLiResourceMultiHeader) == 0x9400);
 
 #endif // FFLI_RESOURCE_HEADER_H_
+

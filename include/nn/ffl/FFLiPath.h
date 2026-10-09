@@ -13,3 +13,4 @@ FSStatus FFLiGetDatabasePath(char* pDst, u32 size, u64 titleID, const char* file
 FFLResult FFLiConvertFSStatusToFFLResult(FSStatus status);
 
 #endif // FFLI_PATH_H_
+

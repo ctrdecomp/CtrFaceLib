@@ -142,3 +142,4 @@ NN_STATIC_ASSERT_IS_POD(FFLiMiddleDB);
 NN_STATIC_ASSERT(sizeof(FFLiMiddleDB) == 0x14);
 
 #endif // FFLI_MIDDLE_DB_H_
+

@@ -73,3 +73,4 @@ NN_STATIC_ASSERT_IS_POD(FFLiResourceTextureFooter);
 NN_STATIC_ASSERT(sizeof(FFLiResourceTextureFooter) == 0xC);
 
 #endif // FFLI_RESOURCE_TEXTURE_H_
+

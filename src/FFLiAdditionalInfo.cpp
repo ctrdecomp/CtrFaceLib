@@ -112,3 +112,4 @@ void FFLiGetAdditionalInfo(FFLAdditionalInfo* pAdditionalInfo, const FFLiCharInf
     pAdditionalInfo->hairType = pCharInfo->parts.hairType;
     pAdditionalInfo->facelineColor = FFLiGetFacelineColor(pCharInfo->parts.facelineColor);
 }
+

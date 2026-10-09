@@ -74,3 +74,4 @@ NN_STATIC_ASSERT_IS_POD(FFLiDatabaseFileHidden);
 NN_STATIC_ASSERT(sizeof(FFLiDatabaseFileHidden) == 0xAC00);
 
 #endif // FFLI_DATABASE_FILE_HIDDEN_H_
+

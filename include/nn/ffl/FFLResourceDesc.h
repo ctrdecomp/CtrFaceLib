@@ -20,3 +20,4 @@ NN_STATIC_ASSERT(sizeof(FFLResourceDesc) == 0x10);
 #endif
 
 #endif // FFL_RESOURCE_DESC_H_
+

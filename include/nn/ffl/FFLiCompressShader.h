@@ -45,3 +45,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCompressShader) == 0x44);
 
 #endif // FFLI_COMPRESS_SHADER_H_
+

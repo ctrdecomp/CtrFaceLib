@@ -75,3 +75,4 @@ struct FFLiResourcePartsInfo
 NN_STATIC_ASSERT(sizeof(FFLiResourcePartsInfo) == 0x10);
 
 #endif // FFLI_RESOURCE_PARTS_INFO_H_
+

@@ -33,3 +33,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiResourceLoaderBuffer) == 0xC);
 
 #endif // FFLI_RESOURCE_LOADER_BUFFER_H_
+

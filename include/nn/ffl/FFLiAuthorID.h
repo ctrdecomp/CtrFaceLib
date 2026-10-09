@@ -20,3 +20,4 @@ BOOL FFLiIsSameAuthorID(const FFLiAuthorID* a, const FFLiAuthorID* b);
 BOOL FFLiIsHomeAuthorID(const FFLiAuthorID* pAuthorID);
 
 #endif // FFLI_AUTHOR_ID_H_
+

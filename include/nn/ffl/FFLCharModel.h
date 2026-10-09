@@ -66,3 +66,4 @@ void FFLSetViewModelType(FFLCharModel* pModel, FFLModelType type);
 #endif
 
 #endif // FFL_CHAR_MODEL_H_
+

@@ -106,3 +106,4 @@ bool FFLiCoordinate::IsDefault() const
 
     return true;
 }
+

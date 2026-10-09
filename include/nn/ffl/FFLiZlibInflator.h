@@ -25,3 +25,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiZlibInflator) == 0x44);
 
 #endif // FFLI_ZLIB_INFLATOR_H_
+

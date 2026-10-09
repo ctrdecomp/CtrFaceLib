@@ -51,3 +51,4 @@ FSStatus FFLiFsFile::FlushQuota(FFLiFsCommand* pCommand, const char* path, FSRet
 {
     return FSFlushQuota(&pCommand->GetClient()->GetFSClient(), &pCommand->GetFSCmdBlock(), path, errHandling);
 }
+

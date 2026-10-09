@@ -55,3 +55,4 @@ void FFLiSwapEndianArrayImpl(T* pArray, u32 size)
 }
 
 #endif // FFLI_SWAP_ENDIAN_H_
+

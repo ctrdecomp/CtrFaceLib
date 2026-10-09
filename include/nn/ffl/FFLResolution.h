@@ -19,3 +19,4 @@ FFLResolution;
 #endif
 
 #endif // FFL_RESOLUTION_H_
+

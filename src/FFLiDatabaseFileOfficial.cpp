@@ -199,3 +199,4 @@ void FFLiDatabaseFileOfficial::SwapEndian()
 
     UpdateCrc();
 }
+
