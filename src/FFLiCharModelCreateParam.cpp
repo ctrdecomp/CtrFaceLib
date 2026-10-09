@@ -116,3 +116,4 @@ u32 FFLiCharModelCreateParam::GetCompressBufferSize(const FFLCharModelDesc* pDes
     }
     return 0;
 }
+

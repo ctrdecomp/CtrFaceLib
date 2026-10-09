@@ -5,3 +5,4 @@ FFLResult FFLiIsVaildResourceHeader(const FFLiResourceHeader* pHeader)
 {
     return pHeader->GetResult();
 }
+

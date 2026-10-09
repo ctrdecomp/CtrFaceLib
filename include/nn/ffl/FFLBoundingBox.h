@@ -20,3 +20,4 @@ NN_STATIC_ASSERT(sizeof(FFLBoundingBox) == 0x18);
 #endif
 
 #endif // FFL_BOUNDING_BOX_H_
+

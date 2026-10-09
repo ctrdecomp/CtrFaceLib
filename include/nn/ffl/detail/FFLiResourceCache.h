@@ -29,3 +29,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiResourceCache) == 0x10);
 
 #endif // FFLI_RESOURCE_CACHE_H_
+

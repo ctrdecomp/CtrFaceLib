@@ -6,3 +6,4 @@ FFLResult FFLGetResourcePath(char* pDst, u32 size, FFLResourceType resourceType,
 {
     return FFLiResourceManager::GetResourcePath(pDst, size, resourceType, LG);
 }
+

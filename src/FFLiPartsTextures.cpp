@@ -187,3 +187,4 @@ void InvalidateTextures(GX2Texture** ppTextures, u32 count)
 }
 
 }
+

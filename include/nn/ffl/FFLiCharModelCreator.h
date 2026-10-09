@@ -35,3 +35,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCharModelCreator) == 8);
 
 #endif // FFLI_CHAR_MODEL_CREATOR_H_
+

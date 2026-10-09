@@ -128,4 +128,3 @@ static GX2PixelShader FFLiCopySurfaceShaderObj_PS = {
   FFLiCopySurfaceShaderObj_PS_sampler_vars,
 };
 
-

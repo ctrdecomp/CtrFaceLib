@@ -37,3 +37,4 @@ void FFLiContextState::Bind(bool setup)
     else
         FFLiTempSetContextState(m_pGX2ContextState);
 }
+

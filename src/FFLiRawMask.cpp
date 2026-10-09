@@ -292,3 +292,4 @@ void CalcRawMask(RawMasks* pRawMasks, const FFLiCharInfo* pCharInfo, s32 resolut
 }
 
 }
+

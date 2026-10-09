@@ -189,3 +189,4 @@ void FFLSetViewModelType(FFLCharModel* pModel, FFLModelType type)
 {
     FFLiSetViewModelType(GetCharModel(pModel), type);
 }
+

@@ -445,3 +445,4 @@ bool CompareBirthPlatform(const FFLiCharInfo* a, const FFLiCharInfo* b)
 }
 
 }
+

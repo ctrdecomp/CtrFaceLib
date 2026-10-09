@@ -47,3 +47,4 @@ void FFLiMiiDataHidden::SwapEndian()
     // Dunno what to do with this
     // _48
 }
+

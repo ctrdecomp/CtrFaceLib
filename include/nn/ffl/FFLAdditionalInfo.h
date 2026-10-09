@@ -42,3 +42,4 @@ NN_STATIC_ASSERT(sizeof(FFLAdditionalInfo) == 0x50);
 #endif
 
 #endif // FFL_ADDITIONAL_INFO_H_
+

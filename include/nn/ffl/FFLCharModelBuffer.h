@@ -22,3 +22,4 @@ NN_STATIC_ASSERT(sizeof(FFLCharModelBuffer) == 0x10);
 #endif
 
 #endif // FFL_CHAR_MODEL_BUFFER_H_
+

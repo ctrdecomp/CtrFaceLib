@@ -22,3 +22,4 @@ u32 FFLiGetMipMapLevelSize(u32 size, u32 mipLevel)
 
     return FFLiGetMipMapLevelSize(size / 2, mipLevel - 1);
 }
+

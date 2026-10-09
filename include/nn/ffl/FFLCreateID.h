@@ -25,3 +25,4 @@ NN_STATIC_ASSERT(sizeof(FFLCreateID) == FFL_CREATE_ID_SIZE);
 #endif
 
 #endif // FFL_CREATE_ID_H_
+

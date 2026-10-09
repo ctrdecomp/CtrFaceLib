@@ -12,3 +12,4 @@ FFLiResourceLoaderBuffer::FFLiResourceLoaderBuffer(const FFLiResourceManager* pR
 FFLiResourceLoaderBuffer::~FFLiResourceLoaderBuffer()
 {
 }
+

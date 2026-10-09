@@ -23,3 +23,4 @@ void FFLiInvalidateShader(void* ptr, u32 size)
 {
     GX2Invalidate(GX2_INVALIDATE_CPU_SHADER, ptr, size);
 }
+

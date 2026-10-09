@@ -21,3 +21,4 @@ void FFLiFsCommand::PlacementDelete(FFLiFsCommand* pCommand)
 {
     pCommand->~FFLiFsCommand();
 }
+

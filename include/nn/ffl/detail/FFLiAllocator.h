@@ -24,3 +24,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiAllocator) == 4);
 
 #endif // FFLI_ALLOCATOR_H_
+

@@ -25,3 +25,4 @@ BOOL FFLiIsHomeAuthorID(const FFLiAuthorID* pAuthorID)
 {
     return FFLiIsSameAuthorID(pAuthorID, FFLiGetUserID());
 }
+

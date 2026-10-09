@@ -54,3 +54,4 @@ BOOL FFLiIsSameMiiID(const FFLCreateID* a, const FFLCreateID* b);
 #endif
 
 #endif // FFLI_CREATE_ID_H_
+

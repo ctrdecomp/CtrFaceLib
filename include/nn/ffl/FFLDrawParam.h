@@ -68,3 +68,4 @@ NN_STATIC_ASSERT(sizeof(FFLDrawParam) == 0x68);
 #endif
 
 #endif // FFL_DRAW_PARAM_H_
+

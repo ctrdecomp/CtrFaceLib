@@ -25,3 +25,4 @@ NN_STATIC_ASSERT(sizeof(FFLInitDesc) == 0x14);
 #endif
 
 #endif // FFL_INIT_DESC_H_
+

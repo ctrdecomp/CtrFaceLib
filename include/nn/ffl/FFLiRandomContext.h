@@ -18,3 +18,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiRandomContext) == 0xC);
 
 #endif // FFLI_RANDOM_CONTEXT_H_
+

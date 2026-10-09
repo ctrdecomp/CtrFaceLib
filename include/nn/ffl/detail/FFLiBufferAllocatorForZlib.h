@@ -19,3 +19,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiBufferAllocatorForZlib) == 0xC);
 
 #endif // FFLI_BUFFER_ALLOCATOR_FOR_ZLIB_H_
+

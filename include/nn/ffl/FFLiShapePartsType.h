@@ -21,3 +21,4 @@ enum FFLiShapePartsType
 };
 
 #endif // FFLI_SHAPE_PARTS_TYPE_H_
+

@@ -25,3 +25,4 @@ NN_STATIC_ASSERT(sizeof(FFLPartsTransform) == 0x54);
 #endif
 
 #endif // FFL_PARTS_TRANSFORM_H_
+

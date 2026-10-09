@@ -105,3 +105,4 @@ s32 FFLiGetSecondsFrom_2000_01_01()
     s32 days = FFLiDateToDays(year, month, day);
     return ((days * 24 + hour) * 60 + minute) * 60 + second;
 }
+

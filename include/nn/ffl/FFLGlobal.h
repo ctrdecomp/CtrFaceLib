@@ -24,3 +24,4 @@ FFLColor FFLGetFavoriteColor(s32 index);
 #endif
 
 #endif // FFL_GLOBAL_H_
+

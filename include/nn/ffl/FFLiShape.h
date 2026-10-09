@@ -22,3 +22,4 @@ void FFLiAdjustShape(FFLDrawParam* pDrawParam, FFLBoundingBox* pBoundingBox, f32
 void FFLiInvalidateShape(FFLDrawParam* pDrawParam);
 
 #endif // FFLI_SHAPE_H_
+

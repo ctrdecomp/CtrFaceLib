@@ -30,3 +30,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCopySurfaceShader) == 0x3C);
 
 #endif // FFLI_COPY_SURFACE_SHADER_H_
+

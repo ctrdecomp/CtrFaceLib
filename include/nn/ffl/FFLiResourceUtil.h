@@ -8,3 +8,4 @@ class FFLiResourceHeader;
 FFLResult FFLiIsVaildResourceHeader(const FFLiResourceHeader* pHeader);
 
 #endif // FFLI_RESOURCE_UTIL_H_
+

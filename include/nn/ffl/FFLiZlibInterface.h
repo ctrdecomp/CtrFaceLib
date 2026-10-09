@@ -19,3 +19,4 @@ public:
 NN_STATIC_ASSERT(sizeof(FFLiZlibInterface) == 4);
 
 #endif // FFLI_ZLIB_INTERFACE_H_
+

@@ -29,3 +29,4 @@ void FFLiInitModulateShapeGlass(FFLModulateParam* pParam, s32 color, const GX2Te
 void FFLiInitModulateFill(FFLModulateParam* pParam);
 
 #endif // FFLI_MODULATE_H_
+

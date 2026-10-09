@@ -38,3 +38,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiSystemContext) == 0x28);
 
 #endif // FFLI_SYSTEM_CONTEXT_H_
+

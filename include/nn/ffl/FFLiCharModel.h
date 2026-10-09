@@ -73,3 +73,4 @@ const FFLDrawParam* FFLiGetDrawParamXluNoseLineFromCharModel(const FFLiCharModel
 const FFLDrawParam* FFLiGetDrawParamXluGlassFromCharModel(const FFLiCharModel* pModel);
 
 #endif // FFLI_CHAR_MODEL_H_
+

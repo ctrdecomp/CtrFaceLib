@@ -19,3 +19,4 @@ struct FFLiMaskTexturesTempObject
 NN_STATIC_ASSERT(sizeof(FFLiMaskTexturesTempObject) == 0xD4);
 
 #endif // FFLI_MASK_TEXTURES_TEMP_OBJECT_H_
+

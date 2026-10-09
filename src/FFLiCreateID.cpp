@@ -103,3 +103,4 @@ BOOL FFLiIsSameMiiID(const FFLCreateID* a, const FFLCreateID* b)
 
     return false;
 }
+

@@ -79,3 +79,4 @@ u32 FFLiCopySurfaceDrawer::GetBufferSize()
 
     return ret;
 }
+

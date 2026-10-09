@@ -177,3 +177,4 @@ const FFLDrawParam* FFLiGetDrawParamXluGlassFromCharModel(const FFLiCharModel* p
             ? NULL
             : &(pModel->drawParam[FFLI_SHAPE_TYPE_XLU_GLASS]);
 }
+

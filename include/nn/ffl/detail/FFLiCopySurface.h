@@ -32,3 +32,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCopySurface) == 0x44);
 
 #endif // FFLI_COPY_SURFACE_H_
+

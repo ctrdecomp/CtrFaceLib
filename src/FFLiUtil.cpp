@@ -52,3 +52,4 @@ bool FFLiIsNumberCharCode(u16 c)
         (0x2776 <= c && c <= 0x277E)    // 0x2776 == L'❶', 0x277E == L'❾'
     );
 }
+

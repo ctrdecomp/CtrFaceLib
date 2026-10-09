@@ -27,3 +27,4 @@ void FFLiSetupRenderTexture(GX2Texture* pGX2Texture, const FFLColor* pClearColor
 void FFLiFlushRenderTexture(FFLiRenderTexture* pRenderTexture);
 
 #endif // FFLI_RENDER_TEXTURE_H_
+

@@ -24,3 +24,4 @@ NN_STATIC_ASSERT(sizeof(FFLCharModelDesc) == 0x14);
 #endif
 
 #endif // FFL_CHAR_MODEL_DESC_H_
+

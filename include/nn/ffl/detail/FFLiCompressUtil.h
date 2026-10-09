@@ -11,3 +11,4 @@ void FFLiSetupColorBufferForBC3(GX2ColorBuffer* pColorBuffer, GX2Texture* pTextu
 void FFLiSetupColorBufferForBC1(GX2ColorBuffer* pColorBuffer, GX2Texture* pTexture, u32 mipLevel);
 
 #endif // FFLI_COMPRESS_UTIL_H_
+

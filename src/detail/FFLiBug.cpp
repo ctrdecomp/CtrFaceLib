@@ -20,3 +20,4 @@ u32 FFLiBugCanVgtFixedIndexSize(u32 size)
 {
     return size + (GX2_INDEX_BUFFER_ALIGNMENT - 4);
 }
+

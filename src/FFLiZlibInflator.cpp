@@ -36,3 +36,4 @@ s32 FFLiZlibInflator::Process(void** ppDst, u32* pDstSize, const void** ppSrc, u
 
     return ret;
 }
+

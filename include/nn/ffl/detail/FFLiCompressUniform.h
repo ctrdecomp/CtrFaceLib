@@ -37,3 +37,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCompressUniform) == 0xC);
 
 #endif // FFLI_COMPRESS_UNIFORM_H_
+

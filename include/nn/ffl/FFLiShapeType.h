@@ -21,3 +21,4 @@ enum FFLiShapeType
 };
 
 #endif // FFLI_SHAPE_TYPE_H_
+

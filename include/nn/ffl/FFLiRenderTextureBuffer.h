@@ -11,3 +11,4 @@ struct FFLiRenderTextureBuffer
 NN_STATIC_ASSERT(sizeof(FFLiRenderTextureBuffer) == 8);
 
 #endif // FFLI_RENDER_TEXTURE_BUFFER_H_
+

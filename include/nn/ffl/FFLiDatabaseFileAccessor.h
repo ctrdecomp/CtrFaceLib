@@ -60,3 +60,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiDatabaseFileAccessor) == 0xDA0);
 
 #endif // FFLI_DATABASE_FILE_ACCESSOR_H_
+

@@ -59,3 +59,4 @@ NN_STATIC_ASSERT(sizeof(FFLiSnorm8_8_8_8) == 4);
 #endif
 
 #endif // FFL_VECTOR_H_
+

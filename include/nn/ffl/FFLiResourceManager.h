@@ -69,3 +69,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiResourceManager) == 0x218);
 
 #endif // FFLI_RESOURCE_MANAGER_H_
+

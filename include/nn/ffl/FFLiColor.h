@@ -57,3 +57,4 @@ void FFLiGetColorContainer(FFLiColorContainer* pContainer, FFLiContainerType typ
 */
 
 #endif // FFLI_COLOR_H_
+

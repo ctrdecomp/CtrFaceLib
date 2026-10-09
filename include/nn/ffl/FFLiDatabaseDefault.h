@@ -23,3 +23,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiDatabaseDefault) == 0x228);
 
 #endif // FFLI_DATABASE_DEFAULT_H_
+

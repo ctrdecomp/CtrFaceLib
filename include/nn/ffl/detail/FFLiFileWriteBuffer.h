@@ -12,3 +12,4 @@ struct FFLiFileWriteBuffer
 NN_STATIC_ASSERT(sizeof(FFLiFileWriteBuffer) == FFLI_FILE_WRITE_BUFFER_SIZE);
 
 #endif // FFLI_FILE_WRITE_BUFFER_H_
+

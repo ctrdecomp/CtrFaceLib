@@ -131,3 +131,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiManager) == 0x29B0);
 
 #endif // FFLI_MANAGER_H_
+

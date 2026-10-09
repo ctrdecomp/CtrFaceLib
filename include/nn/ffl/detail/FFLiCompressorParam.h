@@ -30,3 +30,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCompressorParam) == 8);
 
 #endif // FFLI_COMPRESSOR_PARAM_H_
+

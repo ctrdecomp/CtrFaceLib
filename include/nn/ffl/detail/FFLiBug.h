@@ -11,3 +11,4 @@ void* FFLiBugVgtFixedIndexPtr(void* ptr);
 u32 FFLiBugCanVgtFixedIndexSize(u32 size);
 
 #endif // FFLI_BUG_H_
+

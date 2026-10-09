@@ -12,3 +12,4 @@ struct FFLiTextureTempObject
 NN_STATIC_ASSERT(sizeof(FFLiTextureTempObject) == 0x220);
 
 #endif // FFLI_TEXTURE_TEMP_OBJECT_H_
+

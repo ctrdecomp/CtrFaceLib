@@ -26,3 +26,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCompressDrawer) == 8);
 
 #endif // FFLI_COMPRESS_DRAWER_H_
+

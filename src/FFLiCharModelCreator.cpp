@@ -546,3 +546,4 @@ void FFLiCharModelCreator::SetupRenderTextureBuffer(FFLiRenderTextureBuffer& ren
         renderTextureBuffer.pBuffer = pAllocator->Allocate(renderTextureBuffer.size);
     }
 }
+

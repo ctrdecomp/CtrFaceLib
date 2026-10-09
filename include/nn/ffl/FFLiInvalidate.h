@@ -11,3 +11,4 @@ void FFLiInvalidateColorBuffer(GX2ColorBuffer* pColorBuffer);
 void FFLiInvalidateShader(void* ptr, u32 size);
 
 #endif // FFLI_INVALIDATE_H_
+

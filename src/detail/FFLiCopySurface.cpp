@@ -107,3 +107,4 @@ void FFLiCopySurface::SetupDstSurface(GX2Surface* pSurface, u32 mipLevel)
         f32(FFLiGetMipMapLevelSize(colorBuffer.surface.height, mipLevel))
     );
 }
+

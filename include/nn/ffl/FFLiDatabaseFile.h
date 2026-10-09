@@ -12,3 +12,4 @@ struct FFLiDatabaseFile
 NN_STATIC_ASSERT(sizeof(FFLiDatabaseFile) == 0x4E440);
 
 #endif // FFLI_DATABASE_FILE_H_
+

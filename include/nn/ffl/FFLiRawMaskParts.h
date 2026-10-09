@@ -38,3 +38,4 @@ void FFLiInitDrawParamRawMaskPartsFill(FFLiRawMaskPartsDrawParam* pDrawParam, FF
 void FFLiDrawRawMaskParts(const FFLiRawMaskPartsDrawParam* pDrawParam, const FFLiShaderCallback* pCallback);
 
 #endif // FFLI_RAW_MASK_PARTS_H_
+

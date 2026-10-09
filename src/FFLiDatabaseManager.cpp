@@ -202,3 +202,4 @@ FFLResult FFLiDatabaseManager::UpdateMiddleDB(FFLiMiddleDB* pMiddleDB)
 
     return FFL_RESULT_ERROR;
 }
+

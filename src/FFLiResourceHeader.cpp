@@ -234,3 +234,4 @@ void FFLiResourceHeader::SwapEndian()
     // Dunno what to do with this
     // _49d0
 }
+

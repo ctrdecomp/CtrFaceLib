@@ -8,3 +8,4 @@ void FFLiPutCRC16(u16 base, void* pData, u32 size);
 bool FFLiIsValidCRC16(const void* pData, u32 size);
 
 #endif // FFLI_CRC_H_
+

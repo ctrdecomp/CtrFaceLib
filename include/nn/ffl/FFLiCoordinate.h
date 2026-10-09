@@ -71,3 +71,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiCoordinate) == 0xC);
 
 #endif // FFLI_COORDINATE_H_
+

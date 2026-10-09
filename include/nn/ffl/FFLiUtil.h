@@ -34,3 +34,4 @@ s32 FFLiCompareString16(const u16* s1, const u16* s2, s32 n);
 bool FFLiIsNumberCharCode(u16 c);
 
 #endif // FFLI_UTIL_H_
+

@@ -87,3 +87,4 @@ u32 FFLiCopySurfaceShader::GetBufferSize()
 {
     return FFLiUtilShader::GetBufferSizeForFetch(2);
 }
+

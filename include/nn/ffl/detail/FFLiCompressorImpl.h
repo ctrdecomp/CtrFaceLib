@@ -169,3 +169,4 @@ void FFLiCompressorImpl<T>::CompressImpl(GX2Texture* pDst, const GX2Texture* pSr
 }
 
 #endif // FFLI_COMPRESSOR_IMPL_H_
+

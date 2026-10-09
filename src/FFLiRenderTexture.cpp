@@ -118,3 +118,4 @@ void FFLiFlushRenderTexture(FFLiRenderTexture* pRenderTexture)
     if (pRenderTexture->gx2Texture.surface.mipPtr != NULL)
         FFLiInvalidate(GX2_INVALIDATE_COLOR_BUFFER, pRenderTexture->gx2Texture.surface.mipPtr, pRenderTexture->gx2Texture.surface.mipSize);
 }
+

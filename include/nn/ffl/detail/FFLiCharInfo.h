@@ -197,3 +197,4 @@ bool FFLiCompareCharInfoWithAdditionalInfo(s32* pFlagOut, s32 flagIn, const FFLi
 #endif
 
 #endif // FFLI_CHARINFO_H_
+

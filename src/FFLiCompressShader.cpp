@@ -168,3 +168,4 @@ u32 FFLiCompressShader::GetBufferSize(const void* pShaderData, u32 shaderIndex)
 {
     return FFLiUtilShader::GetBufferSize(2, pShaderData, shaderIndex);
 }
+

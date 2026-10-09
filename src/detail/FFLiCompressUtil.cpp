@@ -47,3 +47,4 @@ void SetupColorBuffer(GX2ColorBuffer* pColorBuffer, GX2Texture* pTexture, u32 mi
 }
 
 }
+

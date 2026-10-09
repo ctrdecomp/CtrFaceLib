@@ -19,3 +19,4 @@ FFLResult FFLiLoadTextureWithAllocate(GX2Texture** ppGX2Texture, FFLiTexturePart
 void FFLiInvalidateTexture(GX2Texture* pGX2Texture);
 
 #endif // FFLI_TEXTURE_H_
+

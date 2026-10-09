@@ -69,3 +69,4 @@ void FFLiInvalidateTexture(GX2Texture* pGX2Texture)
             FFLiInvalidate(GX2_INVALIDATE_CPU_TEXTURE, pGX2Texture->surface.mipPtr, pGX2Texture->surface.mipSize);
     }
 }
+

@@ -17,3 +17,4 @@ u16 FFLiRandomContext::Random(u16 max)
 
     return ret;
 }
+

@@ -8,3 +8,4 @@ const FFLiAuthorID* FFLiGetUserID()
 
     return FFLiManager::GetInstance()->GetSystemContext().UserID();
 }
+

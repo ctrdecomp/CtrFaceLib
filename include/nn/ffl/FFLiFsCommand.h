@@ -50,3 +50,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiFsCommand) == FFLI_FS_COMMAND_SIZE);
 
 #endif // FFLI_FS_COMMAND_H_
+

@@ -31,3 +31,4 @@ private:
 NN_STATIC_ASSERT(sizeof(FFLiBufferAllocator) == 8);
 
 #endif // FFLI_BUFFER_ALLOCATOR_H_
+
