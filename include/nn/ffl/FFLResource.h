@@ -15,3 +15,4 @@ FFLResult FFLGetResourcePath(char* pDst, u32 size, FFLResourceType resourceType,
 #endif
 
 #endif // FFL_RESOURCE_H_
+

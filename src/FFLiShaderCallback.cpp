@@ -39,3 +39,4 @@ void FFLiShaderCallback::CallSetContextState() const
     if (IsExist())
         FFLiTempSetContextState(m_pShaderCallback->pContextState);
 }
+
